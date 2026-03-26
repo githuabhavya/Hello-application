@@ -1,5 +1,5 @@
 public class UC4{
-    public ststic void main(String[] args) {
+    public static void main(String[] args) {
         String name;
 
         if (args.length == 0) {
@@ -16,6 +16,6 @@ public class UC4{
             name = nameBuilder.toString(); //
         }
 
-        System.out.ptintln("Hello, " + "!");
+        System.out.println("Hello, " + "!");
     }
 }
